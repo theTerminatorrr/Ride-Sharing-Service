@@ -1,1 +1,1 @@
-# Ride-Sharing-Service
+This is a ride-sharing service system for a startup. The service contains managing users, drivers, rides, and locations effectively. Here, I designed and implemented a program in Java that follows Object-Oriented Programming (OOP) principles.
