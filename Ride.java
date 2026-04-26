@@ -18,7 +18,6 @@ public class Ride
     {
         return id;
     }
-
     public String getStatus()
     {
         return status;
